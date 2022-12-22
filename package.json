@@ -17,7 +17,7 @@
     "express": "^4.17.1",
     "file-type": "^14.6.0",
     "image-clipper": "^0.4.4",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongodb": "^3.5.7",
     "mongoose": "^5.9.14",
     "multer": "^1.4.2",
